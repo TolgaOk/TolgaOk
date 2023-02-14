@@ -1,3 +1,1 @@
-# Static files
-
-Store document-typed files.
+# Home Page
